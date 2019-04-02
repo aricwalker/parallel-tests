@@ -4,6 +4,6 @@ class TestClass < ActiveSupport::TestCase
   end
 
   def test_something
-    assert true
+    assert false
   end
 end
